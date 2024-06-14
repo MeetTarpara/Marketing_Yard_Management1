@@ -1,0 +1,15 @@
+.Rform{
+    width: 1000px;
+    background-color: #CADCFC;
+    color: black;
+    font-weight: 600;
+    margin-inline: auto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10PX;
+
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+}
